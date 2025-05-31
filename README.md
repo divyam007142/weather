@@ -7,7 +7,7 @@
 * Geoapify: [https://www.geoapify.com/geocoding-api](https://www.geoapify.com/geocoding-api) (for Geocoding)
 
 ## Live Link
-### This Project is deployed at: [https://weather-vibes.netlify.app/](https://weather-vibes.netlify.app)
+### This Project is deployed at: [https://weather-vibes0.netlify.app/](https://weather-vibes.netlify.app)
 
 ## To run locally (must have Node.js and NPM installed)
 1. Clone this project on your local device & install necessary packages
